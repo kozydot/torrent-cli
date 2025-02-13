@@ -6,13 +6,10 @@ A feature-rich command-line interface for searching and downloading torrents fro
 
 - Advanced torrent search with filters and sorting
 - Trending, popular, and top torrent listings
-- Beautiful colorized output with progress tracking
 - Smart proxy management with automatic failover
 - Automatic download directory management
 - Comprehensive error handling
 - Cache support for faster responses
-- Dynamic terminal width adaptation
-- Emoji-enhanced user interface
 
 ## Installation
 
