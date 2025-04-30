@@ -1,4 +1,4 @@
-# Torrent CLI
+# Torrent CLI (Obselete, check out Korrent1337x instead much much better!)
 
 A feature-rich command-line interface for searching and downloading torrents from 1337x.
 
